@@ -1,9 +1,11 @@
 ## Sam's Quote Page
 
+
 ### Technology Quotes:
 To create a machine to work your will is to create your destiny.    _Aphorisms for Practical People_
 The future will only contain what we put into it now.  
 _Walter Lewino_
+
 
 ### Philosophy/Government Quotes:
 There is perhaps no phenomenon which contains so much destructive feeling as moral indignation, which permits envy or hate to be acted out under the guise of virtue.   
@@ -12,11 +14,12 @@ _Erich Fromm_
 A person who truly believes in God would never try and thrust the idea on anyone else, just as when you understand mathematics, you are not a fanatical proponent of the idea that two and two are four.    
 _Alan Watts_
 
-Oneo of the finest shadings of communication is the diffrence between "I didn't understand that" and "I understand that but I don't care.
+One of the finest shadings of communication is the diffrence between "I didn't understand that" and "I understand that but I don't care.
 _Élodie_
 
 I am told that the planet's core is hot, dense, and explosive, and I am reminded of our Parliament.   
 _Mark Iberra_
+
 
 ### Anarchy/Freedom
 Nature created neither servants nor masters. I want neither to rule nor be ruled.   
