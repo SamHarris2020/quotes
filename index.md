@@ -14,6 +14,7 @@ _Alan Watts_
 
 One of the finest shadings of communication is the difference between 'I didn't understand that' and 'I understand that but I don't care.'
 
+Oneo of the finest shadings of communication is the diffrence between "I didn't understand that" and "I understand that but I don't care.
 _Élodie_
 
 I am told that the planet's core is hot, dense, and explosive, and I am reminded of our Parliament.   
