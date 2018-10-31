@@ -2,12 +2,20 @@
 
 
 ### Technology Quotes:
-To create a machine to work your will is to create your destiny.    _Aphorisms for Practical People_
+I'd love to change the world, but they won't give me the source code.
+_Anonymous_
+
+To create a machine to work your will is to create your destiny.    
+_Aphorisms for Practical People_
+
 The future will only contain what we put into it now.  
 _Walter Lewino_
 
 
-### Philosophy/Government Quotes:
+### Philosophy/Life Quotes:
+Any transition serious enough to alter your definition of self will require not just small adjustments in your way of living and thinking but a full-on metamorphosis
+_Martha Beck_
+
 There is perhaps no phenomenon which contains so much destructive feeling as moral indignation, which permits envy or hate to be acted out under the guise of virtue.   
 _Erich Fromm_
 
@@ -16,13 +24,22 @@ _Alan Watts_
 
 One of the finest shadings of communication is the diffrence between "I didn't understand that" and "I understand that but I don't care.
 
+
+### Anarchy/Government
 I am told that the planet's core is hot, dense, and explosive, and I am reminded of our Parliament.   
 _Mark Iberra_
 
-
-### Anarchy/Freedom
 Nature created neither servants nor masters. I want neither to rule nor be ruled. Res publica non dominetur. 
 _May 1968 Graffiti_
+
+One of the best ways to get yourself a reputation as a dangerous citizen these days is to go about repeating the very phrases which our founding fathers used in the great struggle for independence. 
+_Charles Austin Beard_
+
+The word 'radical' derives from the Latin word for root. Therefore, if you want to get to the root of anything you must be radical. It is no accident that the word has now been totally demonized...
+_Gore Vidal_
+
+If it were really the case that terrorists "hate us for our freedoms," we'd be getting more popular with Al Qaeda every month.
+_Julian Sanchez_
 
 
 ### Funny Quotes:
@@ -40,3 +57,12 @@ _Civilization Beyond Earth_
 
 O Lord, bless this thy Hand Grenade that with it thou mayest blow thine enemies to tiny bits, in thy mercy. And the Lord did grin. First shalt thou take out the Holy Pin. Then, shalt thou count to three, no more, no less. Once the number three, being the third number, be reached, then lobbest thou thy Holy Hand Grenade of Antioch towards thy foe, who, being naughty in my sight, shall snuff it.
 _Monty Python and the Holy Grail_
+
+Lottery: A tax on people who are bad at math.
+_Ambrose Bierce_
+
+If you think you are too small to make an impact, try sleeping in a room with a few mosquitoes.
+_West African proverb_
+
+When they discover the center of the universe, a lot of people will be disappointed to discover they are not it.
+_Bernard Bailey_
