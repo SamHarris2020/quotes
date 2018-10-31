@@ -7,6 +7,10 @@ The future will only contain what we put into it now.    _Walter Lewino_
 
 
 ### Philosophy/Life
+Today is the first day of the rest of your life.    _Abbie Hoffman_
+
+You only get one shot at life, which is scary. But it sets you free... If our life is all we get to experience, then it's the only thing that matters... If the universe has no purpose, then we get to dictate what that purpose is.    _Kurzgesagt_
+
 You will never reach the top climbing this mountain, becuase there is no top, you will see a ledge that looks like the top from where you are, but once you finally get yourself up there thats when you will see the next cliff-face waiting ahead, so just take a momment to celebrate how far you've come and then start climbing again.    _Daniel Floyd_
 
 Any transition serious enough to alter your definition of self will require not just small adjustments in your way of living and thinking but a full-on metamorphosis.    _Martha Beck_
@@ -16,6 +20,8 @@ There is perhaps no phenomenon which contains so much destructive feeling as mor
 A person who truly believes in God would never try and thrust the idea on anyone else, just as when you understand mathematics, you are not a fanatical proponent of the idea that two and two are four.    _Alan Watts_
 
 One of the finest shadings of communication is the diffrence between "I didn't understand that" and "I understand that but I don't care.
+
+Ships don't sink because of the water around them; ships sink because of the water that gets in them. Don't let what's happening around you get inside you and weigh you down.    _Tiny Buddha_
 
 
 ### Anarchy/Government
