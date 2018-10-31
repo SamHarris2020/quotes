@@ -1,4 +1,4 @@
-### Technology Quotes:
+### Technology
 I'd love to change the world, but they won't give me the source code.    _Anonymous_
 
 To create a machine to work your will is to create your destiny.    _Aphorisms for Practical People_
@@ -6,7 +6,7 @@ To create a machine to work your will is to create your destiny.    _Aphorisms f
 The future will only contain what we put into it now.    _Walter Lewino_
 
 
-### Philosophy/Life Quotes:
+### Philosophy/Life
 You will never reach the top climbing this mountain, becuase there is no top, you will see a ledge that looks like the top from where you are, but once you finally get yourself up there thats when you will see the next cliff-face waiting ahead, so just take a momment to celebrate how far you've come and then start climbing again.    _Daniel Floyd_
 
 Any transition serious enough to alter your definition of self will require not just small adjustments in your way of living and thinking but a full-on metamorphosis.    _Martha Beck_
@@ -30,7 +30,7 @@ The word 'radical' derives from the Latin word for root. Therefore, if you want 
 If it were really the case that terrorists "hate us for our freedoms," we'd be getting more popular with Al Qaeda every month.    _Julian Sanchez_
 
 
-### Funny Quotes:
+### Funny
 You take the average IQ of the group and then divide it by however many members are present, that’s how smart or more realistically how stupid a group can be.    _Terrance Spalding_
 
 This has all the hallmarks of an incredibly brilliant idea, which in the long run turns out to be a total disaster.    _Sam Harris_
