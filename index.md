@@ -6,7 +6,7 @@ To create a machine to work your will is to create your destiny.    _Aphorisms f
 The future will only contain what we put into it now.    _Walter Lewino_
 
 
-### Philosophy/Life
+### Philosophy
 Today is the first day of the rest of your life.    _Abbie Hoffman_
 
 You only get one shot at life, which is scary. But it sets you free... If our life is all we get to experience, then it's the only thing that matters... If the universe has no purpose, then we get to dictate what that purpose is.    _Kurzgesagt_
@@ -24,7 +24,7 @@ One of the finest shadings of communication is the diffrence between "I didn't u
 Ships don't sink because of the water around them; ships sink because of the water that gets in them. Don't let what's happening around you get inside you and weigh you down.    _Tiny Buddha_
 
 
-### Anarchy/Government
+### Government
 I am told that the planet's core is hot, dense, and explosive, and I am reminded of our Parliament.    _Mark Iberra_
 
 Nature created neither servants nor masters. I want neither to rule nor be ruled. Res publica non dominetur.    _May 1968 Graffiti_
