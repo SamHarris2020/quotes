@@ -37,3 +37,6 @@ _Internet Proverb_
 
 All previous versions of humanity will no longer be supported as of this update.    
 _Civilization Beyond Earth_
+
+O Lord, bless this thy Hand Grenade that with it thou mayest blow thine enemies to tiny bits, in thy mercy. And the Lord did grin. First shalt thou take out the Holy Pin. Then, shalt thou count to three, no more, no less. Once the number three, being the third number, be reached, then lobbest thou thy Holy Hand Grenade of Antioch towards thy foe, who, being naughty in my sight, shall snuff it.
+_Monty Python and the Holy Grail_
