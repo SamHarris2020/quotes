@@ -12,8 +12,6 @@ _Erich Fromm_
 A person who truly believes in God would never try and thrust the idea on anyone else, just as when you understand mathematics, you are not a fanatical proponent of the idea that two and two are four.    
 _Alan Watts_
 
-One of the finest shadings of communication is the difference between 'I didn't understand that' and 'I understand that but I don't care.'
-
 Oneo of the finest shadings of communication is the diffrence between "I didn't understand that" and "I understand that but I don't care.
 _Élodie_
 
