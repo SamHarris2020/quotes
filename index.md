@@ -7,6 +7,8 @@ The future will only contain what we put into it now.    _Walter Lewino_
 
 
 ### Philosophy/Life Quotes:
+You will never reach the top climbing this mountain, becuase there is no top, you will see a ledge that looks like the top from where you are, but once you finally get yourself up there thats when you will see the next cliff-face waiting ahead, so just take a momment to celebrate how far you've come and then start climbing again.    _Daniel Floyd_
+
 Any transition serious enough to alter your definition of self will require not just small adjustments in your way of living and thinking but a full-on metamorphosis.    _Martha Beck_
 
 There is perhaps no phenomenon which contains so much destructive feeling as moral indignation, which permits envy or hate to be acted out under the guise of virtue.    _Erich Fromm_
