@@ -1,6 +1,3 @@
-## Sam's Quote Page
-
-
 ### Technology Quotes:
 I'd love to change the world, but they won't give me the source code.    _Anonymous_
 
