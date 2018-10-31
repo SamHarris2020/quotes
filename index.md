@@ -21,7 +21,7 @@ _Mark Iberra_
 
 
 ### Anarchy/Freedom
-Nature created neither servants nor masters. I want neither to rule nor be ruled.   
+Nature created neither servants nor masters. I want neither to rule nor be ruled. Res publica non dominetur. 
 _May 1968 Graffiti_
 
 
