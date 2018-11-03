@@ -55,10 +55,16 @@ When they discover the center of the universe, a lot of people will be disappoin
 
 ### Learning List
 Sql Databases - Data  
-Mag Py - Python Package  
+
+Mag Py - Python Package
+
 Random Tree Forrests - ml stuff  
+
 Weka 3 - Java library  
+
 Huff Transforms - Data science tools  
+
 Plot Digitizer - Natural Language Processing   
+
 Sci Kit Learn - Scientific Pyton Machine Learning Package  
 
