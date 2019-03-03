@@ -52,3 +52,4 @@ Lottery: A tax on people who are bad at math.    _Ambrose Bierce_
 If you think you are too small to make an impact, try sleeping in a room with a few mosquitoes.    _West African proverb_
 
 When they discover the center of the universe, a lot of people will be disappointed to discover they are not it.    _Bernard Bailey_
+
