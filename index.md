@@ -53,3 +53,4 @@ If you think you are too small to make an impact, try sleeping in a room with a 
 
 When they discover the center of the universe, a lot of people will be disappointed to discover they are not it.    _Bernard Bailey_
 
+If you can guess what I'm about to do, that means I've run out of imagination. _Izzet Proverb_
