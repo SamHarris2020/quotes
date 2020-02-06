@@ -8,7 +8,17 @@ nav:
   - Robotics: 
       - Counter: counter.md
       
-theme: jekyll-theme-hacker
+theme:
+  name: 'material'
+  # Don't include MkDocs' JavaScript
+  include_search_page: false
+  search_index_only: true
+  language: en
+  feature:
+    tabs: false
+  palette:
+    primary: teal
+    accent: green
 
 site_name: Quotes
 site_url: https://samharris2020.github.io/Quotes/
