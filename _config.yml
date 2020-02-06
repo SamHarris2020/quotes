@@ -1,2 +1,5 @@
 title: Procured Information 
 -theme: jekyll-theme-hacker
+
+nav: index.md
+  - mind: mindscapes.md
