@@ -1,1 +1,20 @@
+
+nav:
+  - Home: index.md
+      - Quotes: quotes.md
+      - Music I Like: music.md
+      - Mindscapes: mind.md
+      - Cool Links: links.md
+      
+  - Robotics: 
+      - Counter: counter.md
+      
 theme: jekyll-theme-hacker
+
+site_name: Quotes
+site_url: https://samharris2020.github.io/Quotes/
+site_description: Sam's Storage Page
+site_author: Sam Harris
+
+repo_url: https://github.com/SamHarris2020/Quotes
+repo_name: 'Quotes'
