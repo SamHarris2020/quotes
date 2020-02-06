@@ -1,4 +1,6 @@
-### Technology
+## Quotes
+
+#### Technology
 I'd love to change the world, but they won't give me the source code.    _Anonymous_
 
 To create a machine to work your will is to create your destiny.    _Aphorisms for Practical People_
@@ -6,7 +8,7 @@ To create a machine to work your will is to create your destiny.    _Aphorisms f
 The future will only contain what we put into it now.    _Walter Lewino_
 
 
-### Philosophy
+#### Philosophy
 Today is the first day of the rest of your life.    _Abbie Hoffman_
 
 You only get one shot at life, which is scary. But it sets you free... If our life is all we get to experience, then it's the only thing that matters... If the universe has no purpose, then we get to dictate what that purpose is.    _Kurzgesagt_
@@ -24,7 +26,7 @@ One of the finest shadings of communication is the diffrence between "I didn't u
 Ships don't sink because of the water around them; ships sink because of the water that gets in them. Don't let what's happening around you get inside you and weigh you down.    _Tiny Buddha_
 
 
-### Government
+#### Government
 I am told that the planet's core is hot, dense, and explosive, and I am reminded of our Parliament.    _Mark Iberra_
 
 Nature created neither servants nor masters. I want neither to rule nor be ruled. Res publica non dominetur.    _May 1968 Graffiti_
@@ -36,7 +38,7 @@ The word 'radical' derives from the Latin word for root. Therefore, if you want 
 If it were really the case that terrorists "hate us for our freedoms," we'd be getting more popular with Al Qaeda every month.    _Julian Sanchez_
 
 
-### Funny
+#### Funny
 You take the average IQ of the group and then divide it by however many members are present, that’s how smart or more realistically how stupid a group can be.    _Terrance Spalding_
 
 This has all the hallmarks of an incredibly brilliant idea, which in the long run turns out to be a total disaster.    _Sam Harris_
